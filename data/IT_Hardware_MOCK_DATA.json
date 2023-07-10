@@ -1,0 +1,163 @@
+ [
+    {
+      "id": 1,
+      "company_name": "Apple",
+      "product_name": "iPhone 13",
+      "industry": "Consumer Electronics",
+      "release_year": 2021,
+      "category": "Smartphone"
+    },
+    {
+      "id": 2,
+      "company_name": "Apple",
+      "product_name": "MacBook Pro",
+      "industry": "Consumer Electronics",
+      "release_year": 2021,
+      "category": "Laptop"
+    },
+    {
+      "id": 3,
+      "company_name": "Apple",
+      "product_name": "AirPods Pro",
+      "industry": "Consumer Electronics",
+      "release_year": 2019,
+      "category": "Headphones"
+    },
+    {
+      "id": 4,
+      "company_name": "Google",
+      "product_name": "Pixel 6",
+      "industry": "Consumer Electronics",
+      "release_year": 2021,
+      "category": "Smartphone"
+    },
+    {
+      "id": 5,
+      "company_name": "Google",
+      "product_name": "Pixelbook Go",
+      "industry": "Consumer Electronics",
+      "release_year": 2019,
+      "category": "Laptop"
+    },
+    {
+      "id": 6,
+      "company_name": "Google",
+      "product_name": "Nest Thermostat",
+      "industry": "Smart Home",
+      "release_year": 2011,
+      "category": "Smart Thermostat"
+    },
+    {
+      "id": 7,
+      "company_name": "Microsoft",
+      "product_name": "Surface Pro 7",
+      "industry": "Consumer Electronics",
+      "release_year": 2019,
+      "category": "Tablet"
+    },
+    {
+      "id": 8,
+      "company_name": "Microsoft",
+      "product_name": "Xbox Series X",
+      "industry": "Gaming",
+      "release_year": 2020,
+      "category": "Gaming Console"
+    },
+    {
+      "id": 9,
+      "company_name": "Microsoft",
+      "product_name": "Surface Headphones 2",
+      "industry": "Consumer Electronics",
+      "release_year": 2020,
+      "category": "Headphones"
+    },
+    {
+      "id": 10,
+      "company_name": "Amazon",
+      "product_name": "Echo Dot",
+      "industry": "Smart Home",
+      "release_year": 2016,
+      "category": "Smart Speaker"
+    },
+    {
+      "id": 11,
+      "company_name": "Amazon",
+      "product_name": "Kindle Paperwhite",
+      "industry": "Consumer Electronics",
+      "release_year": 2012,
+      "category": "E-reader"
+    },
+    {
+      "id": 12,
+      "company_name": "Amazon",
+      "product_name": "Ring Video Doorbell",
+      "industry": "Smart Home",
+      "release_year": 2013,
+      "category": "Doorbell"
+    },
+    {
+      "id": 13,
+      "company_name": "Facebook",
+      "product_name": "Oculus Quest 2",
+      "industry": "Virtual Reality",
+      "release_year": 2020,
+      "category": "VR Headset"
+    },
+    {
+      "id": 14,
+      "company_name": "Facebook",
+      "product_name": "Portal",
+      "industry": "Smart Home",
+      "release_year": 2018,
+      "category": "Smart Display"
+    },
+    {
+      "id": 15,
+      "company_name": "Facebook",
+      "product_name": "Facebook Portal TV",
+      "industry": "Smart Home",
+      "release_year": 2019,
+      "category": "Smart TV Device"
+    },
+    {
+      "id": 16,
+      "company_name": "Tesla",
+      "product_name": "Model 3",
+      "industry": "Automotive",
+      "release_year": 2017,
+      "category": "Electric Vehicle"
+    },
+    {
+      "id": 17,
+      "company_name": "Tesla",
+      "product_name": "Powerwall",
+      "industry": "Energy Storage",
+      "release_year": 2015,
+      "category": "Home Battery"
+    },
+    {
+      "id": 18,
+      "company_name": "Tesla",
+      "product_name": "Supercharger V3",
+      "industry": "Automotive",
+      "release_year": 2019,
+      "category": "Electric Vehicle Charger"
+    },
+    {
+      "id": 19,
+      "company_name": "Netflix",
+      "product_name": "Netflix Stream Stick",
+      "industry": "Streaming",
+      "release_year": 2022,
+      "category": "Media Streaming Device"
+    },
+    {
+      "id": 20,
+      "company_name": "Netflix",
+      "product_name": "Netflix Smart TV",
+      "industry": "Streaming",
+      "release_year": 2013,
+      "category": "Smart TV"
+    }
+  ]
+

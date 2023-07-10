@@ -1,0 +1,93 @@
+ [
+    {
+      "id": 1,
+      "company_name": "Apple",
+      "software_name": "iOS",
+      "industry": "Consumer Electronics",
+      "location": "Cupertino, CA",
+      "users": "Over 1 billion active devices",
+      "release_year": 2007
+    },
+    {
+      "id": 2,
+      "company_name": "Microsoft",
+      "software_name": "Microsoft Office",
+      "industry": "Software",
+      "location": "Redmond, WA",
+      "users": "1.5 billion+",
+      "release_year": 1989
+    },
+    {
+      "id": 3,
+      "company_name": "Amazon",
+      "software_name": "Amazon Web Services (AWS)",
+      "industry": "Cloud Computing",
+      "location": "Seattle, WA",
+      "users": "Millions of customers",
+      "release_year": 2006
+    },
+    {
+      "id": 4,
+      "company_name": "Google",
+      "software_name": "Google Chrome",
+      "industry": "Internet Services",
+      "location": "Mountain View, CA",
+      "users": "2 billion+",
+      "release_year": 2008
+    },
+    {
+      "id": 5,
+      "company_name": "Facebook",
+      "software_name": "Facebook Messenger",
+      "industry": "Social Media",
+      "location": "Menlo Park, CA",
+      "users": "2.8 billion monthly active users",
+      "release_year": 2011
+    },
+    {
+      "id": 6,
+      "company_name": "Tesla",
+      "software_name": "Tesla Autopilot",
+      "industry": "Automotive",
+      "location": "Palo Alto, CA",
+      "users": "Tesla vehicle owners",
+      "release_year": 2015
+    },
+    {
+      "id": 7,
+      "company_name": "Netflix",
+      "software_name": "Netflix",
+      "industry": "Entertainment",
+      "location": "Los Gatos, CA",
+      "users": "Over 200 million subscribers",
+      "release_year": 1997
+    },
+    {
+      "id": 8,
+      "company_name": "Intel",
+      "software_name": "Intel Core Processors",
+      "industry": "Semiconductors",
+      "location": "Santa Clara, CA",
+      "users": "PC manufacturers",
+      "release_year": 2006
+    },
+    {
+      "id": 9,
+      "company_name": "IBM",
+      "software_name": "IBM Watson",
+      "industry": "Information Technology",
+      "location": "Armonk, NY",
+      "users": "Various industries",
+      "release_year": 2010
+    },
+    {
+      "id": 10,
+      "company_name": "Cisco",
+      "software_name": "Cisco Webex",
+      "industry": "Networking",
+      "location": "San Jose, CA",
+      "users": "Millions of users",
+      "release_year": 1995
+    }
+  ]
+

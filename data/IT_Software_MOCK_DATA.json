@@ -1,0 +1,213 @@
+ [
+    {
+      "id": 1,
+      "company_name": "Google",
+      "product_name": "Google Search",
+      "industry": "Internet Services",
+      "release_year": 1998
+    },
+    {
+      "id": 2,
+      "company_name": "Google",
+      "product_name": "Google Maps",
+      "industry": "Internet Services",
+      "release_year": 2005
+    },
+    {
+      "id": 3,
+      "company_name": "Google",
+      "product_name": "Google Drive",
+      "industry": "Internet Services",
+      "release_year": 2012
+    },
+    {
+      "id": 4,
+      "company_name": "Microsoft",
+      "product_name": "Windows",
+      "industry": "Software",
+      "release_year": 1985
+    },
+    {
+      "id": 5,
+      "company_name": "Microsoft",
+      "product_name": "Microsoft Office",
+      "industry": "Software",
+      "release_year": 1989
+    },
+    {
+      "id": 6,
+      "company_name": "Microsoft",
+      "product_name": "Azure",
+      "industry": "Cloud Computing",
+      "release_year": 2010
+    },
+    {
+      "id": 7,
+      "company_name": "Amazon",
+      "product_name": "Amazon Prime",
+      "industry": "E-commerce",
+      "release_year": 2005
+    },
+    {
+      "id": 8,
+      "company_name": "Amazon",
+      "product_name": "Amazon Echo",
+      "industry": "Smart Home",
+      "release_year": 2014
+    },
+    {
+      "id": 9,
+      "company_name": "Amazon",
+      "product_name": "Kindle",
+      "industry": "Consumer Electronics",
+      "release_year": 2007
+    },
+    {
+      "id": 10,
+      "company_name": "Apple",
+      "product_name": "iPhone",
+      "industry": "Consumer Electronics",
+      "release_year": 2007
+    },
+    {
+      "id": 11,
+      "company_name": "Apple",
+      "product_name": "MacBook Pro",
+      "industry": "Consumer Electronics",
+      "release_year": 2006
+    },
+    {
+      "id": 12,
+      "company_name": "Apple",
+      "product_name": "Apple Watch",
+      "industry": "Consumer Electronics",
+      "release_year": 2015
+    },
+    {
+      "id": 13,
+      "company_name": "Facebook",
+      "product_name": "Facebook",
+      "industry": "Social Media",
+      "release_year": 2004
+    },
+    {
+      "id": 14,
+      "company_name": "Facebook",
+      "product_name": "Instagram",
+      "industry": "Social Media",
+      "release_year": 2010
+    },
+    {
+      "id": 15,
+      "company_name": "Facebook",
+      "product_name": "WhatsApp",
+      "industry": "Messaging",
+      "release_year": 2009
+    },
+    {
+      "id": 16,
+      "company_name": "Tesla",
+      "product_name": "Model S",
+      "industry": "Automotive",
+      "release_year": 2012
+    },
+    {
+      "id": 17,
+      "company_name": "Tesla",
+      "product_name": "Model 3",
+      "industry": "Automotive",
+      "release_year": 2017
+    },
+    {
+      "id": 18,
+      "company_name": "Tesla",
+      "product_name": "Powerwall",
+      "industry": "Energy Storage",
+      "release_year": 2015
+    },
+    {
+      "id": 19,
+      "company_name": "Netflix",
+      "product_name": "Netflix",
+      "industry": "Entertainment",
+      "release_year": 1997
+    },
+    {
+      "id": 20,
+      "company_name": "Netflix",
+      "product_name": "Stranger Things",
+      "industry": "Entertainment",
+      "release_year": 2016
+    },
+    {
+      "id": 21,
+      "company_name": "Netflix",
+      "product_name": "The Crown",
+      "industry": "Entertainment",
+      "release_year": 2016
+    },
+    {
+      "id": 22,
+      "company_name": "Intel",
+      "product_name": "Intel Core i7",
+      "industry": "Semiconductors",
+      "release_year": 2008
+    },
+    {
+      "id": 23,
+      "company_name": "Intel",
+      "product_name": "Intel Xeon",
+      "industry": "Semiconductors",
+      "release_year": 1998
+    },
+    {
+      "id": 24,
+      "company_name": "Intel",
+      "product_name": "Intel Optane Memory",
+      "industry": "Semiconductors",
+      "release_year": 2017
+    },
+    {
+      "id": 25,
+      "company_name": "IBM",
+      "product_name": "IBM Watson",
+      "industry": "Information Technology",
+      "release_year": 2010
+    },
+    {
+      "id": 26,
+      "company_name": "IBM",
+      "product_name": "IBM Cloud",
+      "industry": "Cloud Computing",
+      "release_year": 2007
+    },
+    {
+      "id": 27,
+      "company_name": "IBM",
+      "product_name": "IBM Db2",
+      "industry": "Database",
+      "release_year": 1983
+    },
+    {
+      "id": 28,
+      "company_name": "Cisco",
+      "product_name": "Cisco Catalyst",
+      "industry": "Networking",
+      "release_year": 1993
+    },
+    {
+      "id": 29,
+      "company_name": "Cisco",
+      "product_name": "Cisco Webex",
+      "industry": "Collaboration",
+      "release_year": 1995
+    },
+    {
+      "id": 30,
+      "company_name": "Cisco",
+      "product_name": "Cisco ASA",
+      "industry": "Network Security",
+      "release_year": 2005
+    }
+  ]
+

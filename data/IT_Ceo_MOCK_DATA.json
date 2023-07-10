@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "company_name": "Apple",
+      "ceo_name": "Tim Cook",
+      "industry": "Consumer Electronics",
+      "headquarters": "Cupertino, CA"
+    },
+    {
+      "id": 2,
+      "company_name": "Google",
+      "ceo_name": "Sundar Pichai",
+      "industry": "Internet Services",
+      "headquarters": "Mountain View, CA"
+    },
+    {
+      "id": 3,
+      "company_name": "Microsoft",
+      "ceo_name": "Satya Nadella",
+      "industry": "Software",
+      "headquarters": "Redmond, WA"
+    },
+    {
+      "id": 4,
+      "company_name": "Amazon",
+      "ceo_name": "Andy Jassy",
+      "industry": "E-commerce",
+      "headquarters": "Seattle, WA"
+    },
+    {
+      "id": 5,
+      "company_name": "Facebook",
+      "ceo_name": "Mark Zuckerberg",
+      "industry": "Social Media",
+      "headquarters": "Menlo Park, CA"
+    },
+    {
+      "id": 6,
+      "company_name": "Tesla",
+      "ceo_name": "Elon Musk",
+      "industry": "Automotive",
+      "headquarters": "Palo Alto, CA"
+    },
+    {
+      "id": 7,
+      "company_name": "Netflix",
+      "ceo_name": "Reed Hastings",
+      "industry": "Entertainment",
+      "headquarters": "Los Gatos, CA"
+    },
+    {
+      "id": 8,
+      "company_name": "Intel",
+      "ceo_name": "Patrick Gelsinger",
+      "industry": "Semiconductors",
+      "headquarters": "Santa Clara, CA"
+    },
+    {
+      "id": 9,
+      "company_name": "IBM",
+      "ceo_name": "Arvind Krishna",
+      "industry": "Information Technology",
+      "headquarters": "Armonk, NY"
+    },
+    {
+      "id": 10,
+      "company_name": "Cisco",
+      "ceo_name": "Chuck Robbins",
+      "industry": "Networking",
+      "headquarters": "San Jose, CA"
+    }
+  ]
+
